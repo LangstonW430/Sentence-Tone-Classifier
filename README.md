@@ -1,3 +1,5 @@
+<!-- -->
+
 ---
 
 # Sentence Tone / Emotion Classifier
@@ -8,15 +10,15 @@ This project implements a **text-based emotion classifier** that predicts emotio
 
 The classifier can detect multiple emotions, including:
 
-* `love`
-* `hate`
-* `neutral`
-* `sadness`
-* `enthusiasm`
-* `worry`
-* `happiness`
-* `relief`
-* `anger`
+- `love`
+- `hate`
+- `neutral`
+- `sadness`
+- `enthusiasm`
+- `worry`
+- `happiness`
+- `relief`
+- `anger`
 
 The model reads data from a CSV file containing sentences and their associated emotion labels, trains a classifier, and allows **interactive text input** for real-time predictions.
 
